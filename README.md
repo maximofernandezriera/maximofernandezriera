@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Máster Universitario en Ciberseguridad on UNED**
 
-- 👯 I’m looking to collaborate on [https://github.com/maximofernandezriera/maximo.codes/projects/1](maximo.codes)
+- 👯 I’m looking to collaborate on [maximo.codes](https://github.com/maximofernandezriera/maximo.codes/projects/1)
 
 - 📫 How to reach me **mfernandez@cifpfbmoll.eu**
 
