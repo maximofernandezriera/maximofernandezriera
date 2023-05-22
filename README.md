@@ -22,5 +22,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maximofernandezriera&show_icons=true&locale=en" alt="maximofernandezriera" /></p>
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=dark)](https://github.com/maximofernandezriera)
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=maximofernandezriera&show_icons=true&theme=dark)](https://github.com/maximofernandezriera)
 
