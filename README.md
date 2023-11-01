@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **CIFP Francesc de Borja Moll**
 
-- 🌱 I’m currently learning **Máster Universitario en Ciberseguridad on UNED**
-
 - 📫 How to reach me **mfernandez@cifpfbmoll.eu**
 
 <h3 align="left">Connect with me:</h3>
